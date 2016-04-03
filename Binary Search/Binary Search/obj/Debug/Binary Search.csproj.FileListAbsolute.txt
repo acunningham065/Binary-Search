@@ -1,0 +1,2 @@
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+D:\SSD\Projects\Console Applications\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
